@@ -1,3 +1,6 @@
 [submodule "aws-terraform/learn-terraform-provision-eks-cluster"]
 	path = aws-terraform/learn-terraform-provision-eks-cluster
 	url = https://github.com/hashicorp/learn-terraform-provision-eks-cluster
+[submodule "aws-terraform/learn-terraform-deploy-nginx-kubernetes-provider"]
+	path = aws-terraform/learn-terraform-deploy-nginx-kubernetes-provider
+	url = git@github.com:hashicorp/learn-terraform-deploy-nginx-kubernetes-provider.git
