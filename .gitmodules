@@ -1,0 +1,3 @@
+[submodule "aws-terraform/learn-terraform-provision-eks-cluster"]
+	path = aws-terraform/learn-terraform-provision-eks-cluster
+	url = https://github.com/hashicorp/learn-terraform-provision-eks-cluster
